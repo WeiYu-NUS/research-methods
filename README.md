@@ -2,7 +2,7 @@
 
 > **24 interactive modules** taking you from sampling distributions to causal forests — visually, intuitively, and with ready-to-use Stata code.
 
-**[Launch the app](https://amychina12.github.io/research-methods/)**
+**[Launch the app](https://weiyu-nus.github.io/research-methods/)**
 
 ---
 
@@ -34,7 +34,7 @@ Traditional methods textbooks are dense, formula-heavy, and disconnected from th
 ## Running Locally
 
 ```bash
-git clone https://github.com/amychina12/research-methods.git
+git clone https://github.com/weiyu-nus/research-methods.git
 cd research-methods
 npm install
 npm run dev
@@ -53,7 +53,7 @@ React + Vite, hand-crafted SVG visualizations, Recharts for interactive charts, 
   title = {Research Methods for Management Scholars: An Interactive Visual Guide},
   author = {Wei Yu},
   year = {2026},
-  url = {https://amychina12.github.io/research-methods/}
+  url = {https://weiyu-nus.github.io/research-methods/}
 }
 ```
 
